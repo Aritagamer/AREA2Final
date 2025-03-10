@@ -2,4 +2,5 @@ Airam Resendiz Abarca
 
 
 
-Version 1.0.1 - Hotfix aplicado para corregir errores criticos"
+Version 1.0.1 - Hotfix aplicado para corregir errores criticos
+
